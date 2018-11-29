@@ -10,9 +10,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name = "compte")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class CompteBean implements Serializable{
-
-	private static final long serialVersionUID = 1L;
 	
+	private static final long serialVersionUID = 688352707901180283L;
 	private Long code;
 	private Double solde;
 	private Date dateCreation;
