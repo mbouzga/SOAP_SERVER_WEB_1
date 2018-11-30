@@ -13,7 +13,7 @@ import com.soeap.repository.CountryRepository;
 
 @Endpoint
 public class CountryEndpoint {
-	private static final String NAMESPACE_URI = "http://spring.io/guides/gs-producing-web-service";
+	private static final String NAMESPACE_URI = "bouzga";
 
 	private CountryRepository countryRepository;
 
