@@ -8,7 +8,7 @@ import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
 
 import com.soap.beans.GetCountryRequest;
 import com.soap.beans.GetCountryResponse;
-import com.soeap.repository.CountryRepository;
+import com.soap.repository.CountryRepository;
 
 
 @Endpoint

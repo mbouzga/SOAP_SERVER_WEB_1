@@ -1,4 +1,4 @@
-package com.soeap.repository;
+package com.soap.repository;
 
 import java.util.HashMap;
 import java.util.Map;
